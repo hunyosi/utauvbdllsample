@@ -1,0 +1,11 @@
+LIBRARY utauvbdllsample
+EXPORTS
+	load
+	unload
+	setup
+	exists
+	getpcmdata
+	freepcm
+	getfrqdata
+	freefrq
+

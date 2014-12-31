@@ -1,0 +1,4 @@
+type=voiceset
+folder=utauvbdllsample
+contentsdir=utauvbdllsample
+description=This is sample program of UTAU VoiceBank DLL.
